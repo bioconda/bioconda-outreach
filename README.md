@@ -1,0 +1,1 @@
+This repository contains presentations from Bioconda members given at various conferences/workshops. If you plan to give a talk about Conda/Bioconda please feel encouraged to use these materials as a starting point. Please also feel encouraged to contribute your own presentations so others can easily reuse them.
